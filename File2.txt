@@ -1,4 +1,6 @@
 This is file2...
-Changed -->1
-Changed --> 2 //made on remote
-Change -->3
+
+changed -->1
+changed --> 2 //made on remote
+change-->3
+
