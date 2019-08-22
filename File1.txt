@@ -3,7 +3,7 @@ This is file1 to write helloworld...!!!
 class MyClass{
 
 
-	private static void myMethod(String str){
+	private void myMethod(String str){
 
 		System.out.println(str);
 
@@ -11,6 +11,7 @@ class MyClass{
 
 	public static void main(String args[]){
 
-		myMrthod("Welcome Git...!!!"
+		MyClass obj= new MyClass();
+		obj.myMethod("Welcome Git...!!!");
 	}
 }
